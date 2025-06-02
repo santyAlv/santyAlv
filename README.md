@@ -9,7 +9,7 @@
 
 ### 📕 Lenguajes / Languages :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,,php,mysql,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,mysql,arduino)](https://skillicons.dev)
 
 ---
 
