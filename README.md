@@ -27,7 +27,7 @@ I am a student, currently one year from my degree. I am expanding my knowledge i
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-00000F?style=for-the-badge&logo=VSCode&logoColor=white">
 
 
 
