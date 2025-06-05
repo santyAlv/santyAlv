@@ -2,7 +2,7 @@
 
 
 
-&nbsp;***About me***
+***About me***
 
 I am a student, currently one year from my degree. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative and creative.
 
